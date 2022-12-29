@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{FD89E990-D07C-4551-9153-8563B98FC72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrims", "NonPrims\NonPrims.csproj", "{8E6E2C93-5A2A-4F3B-87D1-738CD5BB963D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD89E990-D07C-4551-9153-8563B98FC72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD89E990-D07C-4551-9153-8563B98FC72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD89E990-D07C-4551-9153-8563B98FC72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD89E990-D07C-4551-9153-8563B98FC72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6E2C93-5A2A-4F3B-87D1-738CD5BB963D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6E2C93-5A2A-4F3B-87D1-738CD5BB963D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6E2C93-5A2A-4F3B-87D1-738CD5BB963D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6E2C93-5A2A-4F3B-87D1-738CD5BB963D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
