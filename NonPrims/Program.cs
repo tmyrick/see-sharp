@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using NonPrims.Math;
 
 namespace NonPrims
 {
@@ -7,8 +8,22 @@ namespace NonPrims
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("meow");
+            var john = new Person();
+            john.FirstName = "John";
+            john.LastName = "Smith";
+            
+            john.Introduce();
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
+
+            Arry arr = new Arry();
+            arr.Foo();
+
+            Str str = new Str();
+            str.Main();
+
         }
     }
 }
