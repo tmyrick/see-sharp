@@ -20,5 +20,6 @@ public class Str
         string path = "c:\\projects\\mayhem\\dir1";
         string path = @"c:\projects\mayhem\dir1";
         
+        
     }
 }
