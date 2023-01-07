@@ -10,7 +10,6 @@ public class Arry
         // numbers[1] = 2;
         // numbers[2] = 3;
         Console.WriteLine("\nARRAYS");
-
         var numbers = new int[3] { 1, 2, 3 };
         
         Console.WriteLine(numbers[0]);
