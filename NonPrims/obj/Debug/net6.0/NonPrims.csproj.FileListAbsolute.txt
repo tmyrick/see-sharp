@@ -9,7 +9,7 @@
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/NonPrims.AssemblyInfo.cs
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/NonPrims.csproj.CoreCompileInputs.cache
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/NonPrims.dll
-/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/refint/NonPrims.dll
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/NonPrims.pdb
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/NonPrims.genruntimeconfig.cache
 /Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/obj/Debug/net6.0/ref/NonPrims.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/NonPrims/bin/Debug/net6.0/ref/NonPrims.dll

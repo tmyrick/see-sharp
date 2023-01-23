@@ -1,3 +1,5 @@
+using System;
+
 namespace NonPrims;
 
 public class Str
@@ -13,13 +15,13 @@ public class Str
         Console.WriteLine(name);
 
         var numbers = new int[] { 1, 2, 3 };
-        string list = string.Join(",", numbers);
+        String list = string.Join(",", numbers);
 
         Console.WriteLine(list);
 
-        string path = "c:\\projects\\mayhem\\dir1";
+        // string path = "c:\\projects\\mayhem\\dir1";
         string path = @"c:\projects\mayhem\dir1";
-        
-        
+
+        Console.WriteLine(path);
     }
 }
