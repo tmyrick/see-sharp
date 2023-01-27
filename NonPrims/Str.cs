@@ -1,5 +1,3 @@
-using System;
-
 namespace NonPrims;
 
 public class Str
@@ -21,7 +19,7 @@ public class Str
 
         // string path = "c:\\projects\\mayhem\\dir1";
         string path = @"c:\projects\mayhem\dir1";
-
-        Console.WriteLine(path);
+        
+        
     }
 }

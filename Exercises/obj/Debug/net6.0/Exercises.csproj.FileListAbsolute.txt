@@ -1,0 +1,15 @@
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.csproj.AssemblyReference.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.AssemblyInfoInputs.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.AssemblyInfo.cs
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.csproj.CoreCompileInputs.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/Exercises
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/Exercises.deps.json
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/Exercises.runtimeconfig.json
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/Exercises.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/ref/Exercises.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/bin/Debug/net6.0/Exercises.pdb
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/ref/Exercises.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.pdb
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Exercises/obj/Debug/net6.0/Exercises.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/Conditionals
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/Conditionals.deps.json
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/Conditionals.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/ref/Conditionals.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/bin/Debug/net6.0/Conditionals.pdb
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.csproj.AssemblyReference.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/ref/Conditionals.dll
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.pdb
+/Users/travismyrick/dutchie/RiderProjects/c-sharp-course/Conditionals/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
